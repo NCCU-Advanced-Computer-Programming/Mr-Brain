@@ -1,0 +1,13 @@
+c:\users\andy\documents\visual studio 2013\Projects\card\card\bin\Debug\card.exe.config
+c:\users\andy\documents\visual studio 2013\Projects\card\card\bin\Debug\card.exe
+c:\users\andy\documents\visual studio 2013\Projects\card\card\bin\Debug\card.pdb
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\card.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\MainWindow.baml
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\MainWindow.g.cs
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\App.g.cs
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\card_MarkupCompile.cache
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\card.g.resources
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\card.Properties.Resources.resources
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\card.csproj.GenerateResource.Cache
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\card.exe
+c:\users\andy\documents\visual studio 2013\Projects\card\card\obj\Debug\card.pdb
